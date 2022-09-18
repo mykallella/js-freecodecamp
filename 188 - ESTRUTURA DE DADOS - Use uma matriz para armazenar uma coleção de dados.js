@@ -1,0 +1,1 @@
+let yourArray = ["Primeiro Dado", 3, true, undefined, null]; 
